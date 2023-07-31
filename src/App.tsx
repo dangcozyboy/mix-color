@@ -1,6 +1,5 @@
 import "./App.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import Layout from "./components/layout/Layout";
 import Auth from "./components/views/Auth";
 import LoginForm from "./components/login/LoginForm";
 import { ColorScheme } from "./pages/Color";
