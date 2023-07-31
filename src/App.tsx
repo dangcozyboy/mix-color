@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Auth from "./components/views/Auth";
 import LoginForm from "./components/login/LoginForm";
 import { ColorScheme } from "./pages/Color";
-import CreactMix from "./pages/CreateMix";
 import CreateMix from "./pages/CreateMix";
 
 function App() {
